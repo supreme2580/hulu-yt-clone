@@ -19,6 +19,8 @@
     "yarn": "^1.22.18"
   },
   "devDependencies": {
+    "@next/swc-linux-x64-gnu": "^12.1.0",
+    "@next/swc-linux-x64-musl": "^12.1.0",
     "@swc/cli": "^0.1.55",
     "@swc/core": "^1.2.159",
     "@swc/core-linux-musl": "^1.2.42",
